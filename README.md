@@ -1,16 +1,16 @@
 ## Bem-vindo(a) ao perfil do Lanzinho!!
 <div>
   <a href="https://github.com/YlanzeY">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&layout=compact&langs_count=6&theme=radical"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <h2>My Stack</h2>
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="SASS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SASS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="SASS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   
 </div>
