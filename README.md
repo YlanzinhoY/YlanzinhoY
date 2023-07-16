@@ -6,9 +6,9 @@
 </div>
 <div style="display: inline_block"><br>
   <h2>My Stack</h2>
-  <img align="center" alt="Node" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-  <img align="center" alt="GO" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+
           
   
 </div>
