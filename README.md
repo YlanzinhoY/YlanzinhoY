@@ -1,5 +1,9 @@
 ## Welcome to my Profile 🤗🤗!! 
 
+### Me chamo Enzo, tenho 20 anos
+### Atualmente cursando o Segundo semestre da Faculdade de Análise e desenvolvimento de sistemas
+### Adoro aprender coisas novas
+
 <div>
   <a href="https://github.com/YlanzeY">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
