@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao Meu Perfil 🤗🤗!!
+## Welcome to my Profile 🤗🤗!! 
+
 <div>
   <a href="https://github.com/YlanzeY">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -8,14 +9,8 @@
   <h2>My Stack</h2>
   <img align="center" alt="Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-    <img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    
-
-  
-            
-          
-
-          
+  <img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        
   
 </div>
  
