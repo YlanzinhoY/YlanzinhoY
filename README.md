@@ -1,8 +1,7 @@
-## Welcome to my Profile 🤗🤗!! 
+# Welcome to my Profile 🤗🤗
 
-### Me chamo Enzo, tenho 20 anos
-### Atualmente cursando o Segundo semestre da Faculdade de Análise e desenvolvimento de sistemas
-### Adoro aprender coisas novas
+- Currently attending the second semester of the Faculty of Systems Analysis and Development
+- I love learning new things
 
 <div>
   <a href="https://github.com/YlanzeY">
@@ -10,16 +9,24 @@
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <h2>My Stack</h2>
+  <h2>Languages</h2>
   <img align="center" alt="Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-        
-  
+  <img align="center" alt="GO" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
- 
+
  <br>
- 
+
+<div>
+  <h3>Tools</h3>
+  <img align="center" alt="Android studio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Android studio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
+   <img align="center" alt="Android studio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Android studio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Android studio" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+
   ### Para me conhecer melhor, visite minhas outras redes sociais!
  
 <div> 
