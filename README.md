@@ -1,6 +1,6 @@
 # Welcome to my Profile 🤗🤗
 
-- Currently attending the second semester of the Faculty of Systems Analysis and Development
+- Currently attending the second semester of the College of Systems Analysis and Development
 - I love learning new things
 
 <div>
