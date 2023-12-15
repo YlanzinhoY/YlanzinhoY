@@ -24,7 +24,4 @@
     <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <div> 
- 
-  ![Snake animation](https://github.com/YlanzinhoY/YlanzinhoY/blob/output/github-contribution-grid-snake.svg)
 
-</div>
