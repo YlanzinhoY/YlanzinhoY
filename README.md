@@ -2,12 +2,12 @@
 
 <div align="center">
 <a href="https://www.instagram.com/enzo_lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzolanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/enzo-lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 - 🤠 ~2 anos desde que eu comecei a estudar Programação
 - 🧑🏼‍💻 Atualmente Cursando o 3 semestre da faculdade de Analise e desenvolvimento de sistemas
-- 🤯 Amo aprender estudar e aprender coisas novas
+- 🤯 Amo estudar e aprender coisas novas
 - 🤩 Desenvolvedor Back End
 
 <div>
