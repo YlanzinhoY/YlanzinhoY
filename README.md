@@ -8,7 +8,7 @@
 - 🤠 ~2 anos desde que eu comecei a estudar Programação
 - 🧑🏼‍💻 Atualmente Cursando o 3 semestre da faculdade de Analise e desenvolvimento de sistemas
 - 🤯 Amo estudar e aprender coisas novas
-- 🤩 Desenvolvedor Back End
+- 🤩 Desenvolvedor Apaixonado em Back end e Entusiasta em Mobile
 
 <div>
   <a href="https://github.com/YlanzeY">
