@@ -5,11 +5,10 @@
   <a href="https://www.linkedin.com/in/enzo-lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🤠 ~2 anos desde que eu comecei a estudar Programação
-- 🧑🏼‍💻 Atualmente Cursando o 3 semestre da faculdade de Analise e desenvolvimento de sistemas
-- 🤯 Amo estudar e aprender coisas novas
-- 🤩 Desenvolvedor Apaixonado em Back end e Entusiasta em Mobile
-
+🤠 ~2 years ago I began my journey as a programmer.
+🧑🏼‍💻 Currently attending the 3rd semester of college for Systems Analysis and Development.
+🤯 I love studying and learning new things.
+🤩 Passionate Back-end Developer and Mobile Enthusiast, 
 <div>
   <a href="https://github.com/YlanzeY">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -17,7 +16,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-<h3>Tecnologias que eu utilizo</h3>
+<h3>Technologies that I love.</h3>
 </div>
     <div style="display: inline_block">
         <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
