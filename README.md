@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/enzo-lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🤠 ~2 years ago I began my journey as a programmer.
+- 🤠 2 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 3rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
 - 🤩 Passionate for Back-end and Mobile 
