@@ -1,4 +1,4 @@
-# 🤗 Hello I'm Enzo Lanzellotti
+# 🤗 Hello I'm Enzo
 
 
 <div align="center">
