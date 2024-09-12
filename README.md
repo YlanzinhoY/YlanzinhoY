@@ -21,6 +21,7 @@
 <h3>The languages and frameworks I enjoy the most</h3>
 
 ![Go](https://camo.githubusercontent.com/17f96f9e3ac36030f80bd78f28d946dd9f047803dd5a9cfcf18d2628728b97d0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676f)
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width=65>
 
  
 
