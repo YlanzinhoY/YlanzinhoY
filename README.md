@@ -21,7 +21,6 @@
 <h3>The languages and frameworks I enjoy the most</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=65/>
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width=65>
 
  
 
