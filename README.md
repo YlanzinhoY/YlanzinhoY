@@ -21,8 +21,8 @@
 
 <h3>The languages and frameworks I enjoy the most</h3>
 
-<img src="https://cdn.worldvectorlogo.com/logos/kataras-iris-go.svg" width=250 />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width=250 />
+<img src="https://cdn.worldvectorlogo.com/logos/kataras-iris-go.svg" width=70 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width=70 />
 
  
 
