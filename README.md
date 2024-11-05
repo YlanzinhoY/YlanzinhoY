@@ -1,11 +1,5 @@
 # 🤗 Hello I'm Enzo
 
-
-<div align="center">
-<a href="https://www.instagram.com/enzo_lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-lanzellotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 - 🤠 2 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
