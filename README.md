@@ -1,5 +1,5 @@
 # 🤗 Hello I'm Enzo
-- ♾️Road to Specialist Devops
+- ♾️ Road to becoming a devops expert
 - 🤠 2 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
@@ -10,19 +10,19 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=6&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
+<div><br>
 
 <h3>The languages and frameworks I enjoy the most</h3>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=120 height=50 />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width=120 height=50 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width=120 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=150 height=80 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width=150 height=80 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width=150 height=80 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width=150 height=80/>
 
  
 
 ### The Tools I enjoy the most
-
 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
