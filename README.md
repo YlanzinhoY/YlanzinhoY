@@ -5,7 +5,7 @@
 - 🤯 I love studying and learning new things.
 - ❣️ Go Lover
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,terraform,grafana"/>
   </a>
