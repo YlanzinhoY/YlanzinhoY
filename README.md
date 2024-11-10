@@ -3,7 +3,6 @@
 - 🤠 2 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
-- 🤩 Passionate for Game Development, Back end and Mobile
 - ❣️ Go Lover
 
 <p align="center">
