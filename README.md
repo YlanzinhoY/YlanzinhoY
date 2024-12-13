@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,terraform,grafana"/>
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,terraform,grafana,kafka"/>
   </a>
 </p>
 https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073
