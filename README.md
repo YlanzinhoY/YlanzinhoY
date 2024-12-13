@@ -10,7 +10,6 @@
     <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,kafka"/>
   </a>
 </p>
-https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073
 <div>
   <a href="https://github.com/YlanzeY">
   <img  height=240 src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
