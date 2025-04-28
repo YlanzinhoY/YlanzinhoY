@@ -17,22 +17,25 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&theme=dark&hide_border=false&include_all_commits=true"
+        width=800
+        src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&theme=dark&hide_border=false&include_all_commits=true&column=2"
         alt="Github Stats"
       />
       </br>
     </td>
     <td>
       <img
+        width=800
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&column=2"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
+        width=800
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=YlanzinhoY&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=YlanzinhoY&theme=dark&hide_border=false&column=2"
         alt="Github Stats"
       />
     </td>
@@ -49,8 +52,8 @@
     title="repositório de troféus"
   >
     <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=YlanzinhoY&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      width="1000"
+      src="https://github-profile-trophy.vercel.app/?username=YlanzinhoY&column=7&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
