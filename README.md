@@ -11,16 +11,6 @@
     <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,kafka"/>
   </a>
 </p>
-<div>
-  <a href="https://github.com/YlanzeY">
-  <img  height=240 src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=1&theme=radical"/>
-</div>
-<div>
-
-## Olá, meu nome é {seu nome}!
-
-### ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -30,16 +20,16 @@
         src="https://github-readme-stats.vercel.app/api?username=YlanzinhoY&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
+      </br>
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=YlanzinhoY&theme=dark&hide_border=false"
