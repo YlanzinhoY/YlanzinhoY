@@ -39,6 +39,14 @@
         alt="Github Stats"
       />
     </td>
+  <td>
+    <img
+      width=800
+      align="left"
+      src="https://nats.io/img/logos/nats-horizontal-color.png"
+      alt="Github Stats"
+      />
+  </td>
   </tr>
 </table>
 
