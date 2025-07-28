@@ -7,7 +7,7 @@
 - 👨‍💻 Software Engineer at [Volix](https://volix.com.br/)
 
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,kafka"/>
   </a>
   
