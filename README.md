@@ -10,7 +10,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,kafka"/>
   </a>
-  <a href="https://nats.io/img/logos/nats-horizontal-color.png">
+  
+  <a>
     <img src="https://nats.io/img/logos/nats-horizontal-color.png" width=180 />
   </a>
 </p>
