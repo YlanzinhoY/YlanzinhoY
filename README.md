@@ -8,7 +8,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=go,cs,docker,kafka"/>
+    <img src="https://skillicons.dev/icons?i=go,docker,kafka,rabbitmq"/>
   </a>
   
   <a>
