@@ -1,5 +1,5 @@
 # 🤗 Hello I'm Enzo
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width=35> Road to becoming a Golang expert </img>
+- 🧑‍💻 Road to becoming a Backend expert </img>
 - 🤠 3 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
