@@ -4,7 +4,6 @@
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
 - ❣️ Go Lover.
-- 🫂 Java Friend
 - 👨‍💻 Software Engineer at [Volix](https://volix.com.br/)
 
 <p>
