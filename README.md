@@ -1,5 +1,4 @@
 # 🤗 Hello I'm Enzo
-- 🧑‍💻 Road to becoming a Backend expert </img>
 - 🤠 3 years ago I began my journey as a programmer.
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
