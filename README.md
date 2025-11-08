@@ -3,7 +3,7 @@
 - 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
 - ❣️ Go Lover.
-- 👨‍💻 Software Engineer at [Volix](https://volix.com.br/)
+- 👨‍💻 Software Engineer - Free Agent
 
 <p>
   <a>
