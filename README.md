@@ -1,6 +1,5 @@
 # 🤗 Hello I'm Enzo
 - 🤠 3 years ago I began my journey as a programmer.
-- 🧑🏼‍💻 Currently attending the 4rd semester of college for Systems Analysis and Development.
 - 🤯 I love studying and learning new things.
 - ❣️ Go Lover.
 - 👨‍💻 Software_Engineer["MidLevel"] = Free Agent
