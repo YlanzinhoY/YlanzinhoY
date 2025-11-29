@@ -1,4 +1,3 @@
-# 🤗 Hello I'm Enzo
 - 🤠 3 years ago I began my journey as a programmer.
 - 🤯 I love studying and learning new things.
 - ❣️ Go Lover.
