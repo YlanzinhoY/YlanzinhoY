@@ -29,13 +29,5 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <img
-        width=800
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=YlanzinhoY&theme=dark&hide_border=false&column=2"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
