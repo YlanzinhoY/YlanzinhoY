@@ -21,13 +21,5 @@
       />
       </br>
     </td>
-    <td>
-      <img
-        width=800
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&langs_count=1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&column=2"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
