@@ -27,6 +27,7 @@
   <img src="https://github.com/grafana/tempo/blob/main/docs/sources/tempo/logo_and_name.png?raw=true" height="35" />
 </p>
 
-                
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YlanzinhoY&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YlanzinhoY&layout=compact&langs_count=1&theme=midnight-purple)
 
 </p>
