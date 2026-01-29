@@ -14,14 +14,19 @@
     <img src="https://skillicons.dev/icons?i=go,docker,kafka,rabbitmq"/>
   </a>
   
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg" width="45" align="middle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" width="50" align="middle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="50" align="middle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="50" align="middle" />
-  <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png?raw=true" width="112" align="middle" />
-  <img src="https://github.com/grafana/tempo/blob/main/docs/sources/tempo/logo_and_name.png?raw=true" width="210" align="middle" />
+<p style="
+  display: flex;
+  align-items: center;
+  gap: 16px;
+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="50" />
+  <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png?raw=true" height="55" />
+  <img src="https://github.com/grafana/tempo/blob/main/docs/sources/tempo/logo_and_name.png?raw=true" height="35" />
 </p>
+
                 
 
 </p>
