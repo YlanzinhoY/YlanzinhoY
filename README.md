@@ -6,9 +6,9 @@
 
 🤍⚡ White Monster Energy Lover
 
-🏈❤️🇺🇸 Kansas City Chiefs Fan
+🏈❤️ Kansas City Chiefs Fan
 
-🕹️Game dev
+🕹️ Game dev
 
 ## 🎧☕📝 Acknowledgement
 <p>
