@@ -8,7 +8,7 @@
 
 🏈❤️ Kansas City Chiefs Fan
 
-🕹️ Game dev
+🕹️ Studying Game Backend Engineering
 
 ## 🎧☕📝 Acknowledgement
 <p>
